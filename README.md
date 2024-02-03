@@ -5,10 +5,10 @@
 
 * whisper:歌声生成字幕(歌词和对应时长)
 * ChatGLM:歌词到画面提示词
-* 古藤老树昏鸦: 高耸入云的古树虬枝伸向天际。前景中，一群神秘的乌鸦栖息在树枝上，深色的羽毛在微弱阳光的映衬下形成错综复杂的图案。阴影在森林地面上飞舞，为周围的景色增添了几分神秘感。一切笼罩在迷蒙的氛围中。
+* 古藤老树昏鸦: 高耸入云的古树虬枝伸向天际。前景中，一群神秘的乌鸦栖息在树枝上，深色的羽毛在微弱阳光的映衬下形成错综复杂的图案。阴影在森林地面上飞舞，为周围的景色增添了几分神秘感。一切笼罩在迷蒙的氛围中。(a serene scene unfolds. Towering above, ancient trees with gnarled branches stretch towards the heavens. In the foreground, a gathering of mysterious crows perches on the tree branches, their dark feathers forming an intricate pattern against the backdrop of the fading sunlight. Shadows dance on the forest floor, adding an air of intrigue to the surrounding landscape.)
 
 * SD:画面提示词到图片
-* 动画编程=>动画生成
+* 动画编程=>简单动画函数
 * moviepy: 视频合成
 * 阿刁,3:00
 ** https://www.toutiao.com/video/7319544451754361353
@@ -18,16 +18,19 @@
 ** https://www.toutiao.com/video/7286583286762045987
 
 
-# Steganography:隐写术: 我本是高山: 高山里的高山
+# Steganography:隐写术: [我本是高山](我本是高山1.png): 高山里的高山
 
 
 
-# ChatSPD: 国产化船舶设计帮助系统, 
+# ChatSPD: 国产化船舶设计帮助系统: http://81.68.124.174:31843/
+* SPD6.0 草图中导入DXF功能怎么用？
+* 管子零件图选项的设置步骤
+* 请列出螺栓存储读取说明
+* 船体设计标准概述
+* 贯通切口标准设置
 
-* http://81.68.124.174:31843/
 
-
-# [[模型]]
+# 模型
 * [[圆锥体]]三维:[[圆锥曲线]]二维: https://www.bilibili.com/video/BV1YM411k7og
 * [[函数]]复数:[[MandelbrotSet]]实数点集
 * [所指]]对象z=z^2 +c: [[能指]]表示: https://www.bilibili.com/video/BV1N441187Dh
@@ -35,8 +38,8 @@
 
 * [[大模型]]超高维:
 * [[所指]]对象[招商工业]]的[[能指]]表示: 26种语言表示, 隐写术图形表示, 招商局之歌视频的隐含表示
-* 
-| 语言 | (能指)表示 |
+ 
+
 | 阿拉伯语 | الصناعة التجارية |
 | 保加利亚语 | Търговска и промишлена |
 | 简体中文 | 招商工业 |
