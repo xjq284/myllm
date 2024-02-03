@@ -15,26 +15,60 @@
 ** https://www.toutiao.com/video/7286583286762045987
 
 
-! [[Steganography]]([[隐写术]]): 我本是高山: 高山里的高山
+# [Steganography]([隐写术]): 我本是高山: 高山里的高山
 
 
 
-! [[ChatSPD]]: 国产化船舶设计帮助系统, 
+# [[ChatSPD]]: 国产化船舶设计帮助系统, 
 
 * http://81.68.124.174:31843/
-* 用户名：huodng
-* 密码：hudongspd
 
 
-! [[模型]]
-* [[圆锥体]](三维):[[圆锥曲线]](二维)
+# [[模型]]
+* [[圆锥体]](三维):[[圆锥曲线]](二维): https://www.bilibili.com/video/BV1YM411k7og
 * [[函数]](复数):[[MandelbrotSet]](实数)
+* [所指]]对象z=z^2 +c: [[能指]]表示: https://www.bilibili.com/video/BV1N441187Dh
 * [[yigo]][[SAP移动类型]]:[[供应链]]->[[企业模型]]
 
-* [[大模型]](超高维)
-** 一个概念的26种语言表示, 图形, 声音
+* [[大模型]](超高维): [[所指]]对象[招商工业]]的[[能指]]表示: 26种语言表示, 隐写术图形表示, 招商局之歌视频的隐含表示
+| 语言 | (能指)表示 |
+| 阿拉伯语 | الصناعة التجارية |
+| 保加利亚语 | Търговска и промишлена |
+| 简体中文 | 招商工业 |
+| 繁体中文 | 招商工業 |
+| 克罗地亚语 | Trgovinska i industrijska |
+| 捷克语 | Obchodní a průmyslový |
+| 丹麦语 | Handels- og industri |
+| 荷兰语 | Handels- en industrie |
+| 英语 | Commercial and industrial |
+| 芬兰语 | Kaupallinen ja teollisuus |
+| 法语 | Commercial et industriel |
+| 德语 | Handels- und Industrie |
+| 希腊语 | Εμπορική και βιομηχανική |
+| 希伯来语 | מסחר ותעשייה |
+| 印地语 | वाणिज्यिक और औद्योगिक |
+| 匈牙利语 | Kereskedelmi és ipari |
+| 印尼语 | Komersial dan industri |
+| 意大利语 | Commerciale e industriale |
+| 日语 | 商業・工業 |
+| 韩语 | 상업 및 산업 |
+| 马来语 | Komersial dan industri |
+| 挪威语 | Handels- og industri |
+| 波兰语 | Handlowo-przemysłowy |
+| 葡萄牙语 | Comercial e industrial |
+| 罗马尼亚语 | Comercial și industrial |
+| 俄语 | Торгово-промышленный |
+| 塞尔维亚语 | Трговинска и индустријска |
+| 斯洛伐克语 | Obchodný a priemyselný |
+| 斯洛文尼亚语 | Trgovinska in industrijska |
+| 西班牙语 | Comercial e industrial |
+| 瑞典语 | Handels- och industri |
+| 泰语 | อุตสาหกรรมและการค้า |
+| 土耳其语 | Ticari ve sanayi |
+| 乌克兰语 | Торгово-промисловий |
+| 越南语 | Thương mại và công nghiệp |
 
-! [[LLM3D]]: [[LLM辅助船舶设计]]: 自说自话建部件模型: 基于马老师的希望: 躺在床上, 看着天花板, 设计修改模型
+# [[LLM3D]]: [[LLM辅助船舶设计]]: 自说自话建部件模型: 基于马老师的希望: 躺在床上, 看着天花板, 设计修改模型
 
 
 [[文本生成cq模型]]
@@ -46,10 +80,6 @@
 ** 长半径=400mm，直径=200mm，45度弯头，壁厚=22mm
 
 
-! [[LLM工业控制]]: 我的梦想, 做资本目前不肖做的事情
+# [[LLM工业控制]]: 我的梦想, 做资本目前不肖做的事情
+GPT4HVAC: 这项研究的目标是探索直接使用预训练 LLM 来执行工业控制任务的潜力
 
-! [[LLM应用]]
-
-* [[langchain]]
-* [[llamaindex]]
-* [[genai-stack]]
